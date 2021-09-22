@@ -1,0 +1,120 @@
+.centered{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: antiquewhite;
+    
+
+}
+h1{
+    text-align: center;
+    line-height: 1.5rem;
+    margin-bottom: 4rem;
+    margin-top: 2rem;
+    color: rgb(169, 186, 233);
+}
+/* h2{
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+h3{
+    margin-bottom: 70px;
+    text-align: center;
+} */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+
+img{
+    height: 36rem;
+    padding-bottom: 20px;
+    display: inline-block;
+}
+
+.card{
+    margin-right: 3rem;
+}
+
+.container-fluid{
+
+    width: 100%;
+}
+.Experience{
+    background-color: #21374B;
+    padding: 50px;
+}
+
+.card{
+    margin: 3rem;
+}
+p{
+    color:rgb(47, 102, 165);
+} 
+.about-desc{
+
+    margin: 30px auto;
+    width: 100%;
+    justify-content: center;
+}
+#home-desc{
+    color: antiquewhite;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+.dot {
+    height: 15px;
+    width: 15px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 40px auto 0px;
+  }
+
+  .progress-bar{
+      text-align: left;
+  }
+
+  /* .btn-group{
+      text-align: center;
+  } */
+
+  .contact-me{
+margin: 0 auto;
+width :40%;
+  } 
+.Copyright{
+    font-size: 10px;
+    font-family: sans-serif;
+}
+
+.footer{
+    margin-top: 3rem;
+}
+  .footer-icons{
+      margin: 0 auto;
+      padding: 5px 10px 3px;
+  }
+  /* .row{
+      margin-bottom: 0rem;
+      width: 50%;
+  } */
+  .my-pic{
+      display: inline;
+      width: 60%;
+      height: 18rem;
+      float: left;
+      margin: 0 3rem 6rem 2rem;
+      border-radius: 50%;
+  }
+
+  .aboutMe{
+      display: inline;
+      width: 100%;
+  }
